@@ -1,0 +1,6 @@
+{
+  "parent":"block/leaves3",
+  "textures": {
+    "0":"chipped:block/oak_leaves/golden_apple_oak_leaves"
+  }
+}

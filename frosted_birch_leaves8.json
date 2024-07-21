@@ -1,0 +1,6 @@
+{
+  "parent":"block/leaves8",
+  "textures": {
+    "0":"chipped:block/birch_leaves/frosted_birch_leaves"
+  }
+}

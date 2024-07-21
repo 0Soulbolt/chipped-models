@@ -1,0 +1,6 @@
+{
+  "parent":"block/leaves6",
+  "textures": {
+    "0":"chipped:block/spruce_leaves/dead_spruce_leaves"
+  }
+}

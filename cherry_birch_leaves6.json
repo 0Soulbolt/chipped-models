@@ -1,0 +1,6 @@
+{
+  "parent":"block/leaves6",
+  "textures": {
+    "0":"chipped:block/birch_leaves/cherry_birch_leaves"
+  }
+}

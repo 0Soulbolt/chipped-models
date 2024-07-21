@@ -1,0 +1,6 @@
+{
+  "parent":"block/leaves8",
+  "textures": {
+    "0":"chipped:block/dark_oak_leaves/apple_dark_oak_leaves"
+  }
+}
